@@ -1,7 +1,7 @@
 # Scrapping-Basic
-# Scrapping-Basic
-To Run the python file --->
-python3 -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
+# Scrapping-Basic  \n
+To Run the python file --->   \n
+python3 -m venv myenv   \n
+source myenv/bin/activate   \n
+pip install -r requirements.txt  \n
 python al.py                                                                                                                                              
